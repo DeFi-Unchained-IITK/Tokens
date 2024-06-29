@@ -1,0 +1,3 @@
+[submodule "ERC20 Token/lib/forge-std"]
+	path = ERC20 Token/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
